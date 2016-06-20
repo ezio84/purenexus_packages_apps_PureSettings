@@ -79,9 +79,6 @@
     <!-- Lockscreen double tap to sleep -->
     <string name="double_tap_sleep_anywhere_title">Double-tap to sleep anywhere</string>
     <string name="double_tap_sleep_anywhere_summary">Double tap anywhere on the lockscreen to put the device to sleep</string>
-    <!-- Lockscreen transparency -->
-    <string name="lockscreen_alpha">Lockscreen transparency</string>
-    <string name="lockscreen_security_alpha">Lockscreen bouncer transparency</string>
 
     <!-- Navbar fragment -->
     <string name="navbar_settings_title">Navigation bar</string>
