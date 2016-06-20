@@ -24,12 +24,15 @@ import com.android.internal.logging.MetricsLogger;
 import com.android.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
 
-public class NavBarSettings extends SettingsPreferenceFragment {
+public class PnNavBarSettings extends SettingsPreferenceFragment {
+
+    private static final String NAVBAR_SETTINGS = "navbar_settings";
+    private static final String PIE_SETTINGS = "pie_settings";
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        addPreferencesFromResource(R.xml.navbar_settings);
+        addPreferencesFromResource(R.xml.pnnavbar_settings);
     }
 
     @Override

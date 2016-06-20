@@ -15,4 +15,20 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
 
+    <com.pure.settings.preferences.SystemSettingSwitchPreference
+        android:key="double_tap_sleep_navbar"
+        android:title="@string/double_tap_sleep_nav_bar_title"
+        android:summary="@string/double_tap_sleep_nav_bar_summary"
+        android:defaultValue="false" />
+
+    <PreferenceScreen
+        android:key="navbar_settings"
+        android:title="@string/navigation_settings_category"
+        android:fragment="com.android.settings.slim.NavbarSettings" />
+
+    <PreferenceScreen
+        android:key="pie_settings"
+        android:title="@string/pie_settings_category"
+        android:fragment="com.android.settings.slim.PieControl" />
+
 </PreferenceScreen>

@@ -79,7 +79,7 @@
     <string name="double_tap_sleep_anywhere_summary">Double tap anywhere on the lockscreen to put the device to sleep</string>
 
     <!-- Navbar fragment -->
-    <string name="navbar_settings_title">Navigation bar</string>
+    <string name="pnnavbar_settings_title">Navigation bar and Pie</string>
 
     <!-- Notification panel fragment -->
     <string name="notification_drawer_settings_title">Notification drawer</string>
