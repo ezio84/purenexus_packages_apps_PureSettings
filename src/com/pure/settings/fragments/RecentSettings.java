@@ -156,7 +156,6 @@ public class RecentSettings extends SettingsPreferenceFragment
             mRecentsClearAll.setEnabled(false);
             mRecentsClearAllLocation.setEnabled(false);
             mRecentsDismissAll.setEnabled(false);
-            mImmersiveRecents.setEnabled(false);
             mRecentPanelBgColor.setPreviewDim(true);
             mRecentCardBgColor.setPreviewDim(true);
             mRecentCardTextColor.setPreviewDim(true);
@@ -165,7 +164,6 @@ public class RecentSettings extends SettingsPreferenceFragment
             mRecentsClearAll.setEnabled(true);
             mRecentsClearAllLocation.setEnabled(true);
             mRecentsDismissAll.setEnabled(true);
-            mImmersiveRecents.setEnabled(true);
             mRecentPanelBgColor.setPreviewDim(false);
             mRecentCardBgColor.setPreviewDim(false);
             mRecentCardTextColor.setPreviewDim(false);
