@@ -22,4 +22,7 @@
     <string name="double_tap_sleep_nav_bar_summary">Double tap navigation bar to put device to sleep</string>
 
     <string name="pie_settings_category">Pie</string>
+
+    <string name="camera_sounds_title">Camera shutter sound</string>
+    <string name="camera_sounds_summary">Enable system camera shutter sound</string>
 </resources>
