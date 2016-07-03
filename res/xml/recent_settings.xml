@@ -120,7 +120,7 @@
             android:key="recent_panel_bg_color"
             android:title="@string/recent_panel_bg_color_title"
             android:dialogTitle="@string/recent_panel_bg_color_title"
-            android:defaultValue="0x80000000"
+            android:defaultValue="0xac000000"
             settings:alphaSlider="true"
             settings:alphaText="true" />
 
@@ -129,7 +129,7 @@
             android:key="recent_card_bg_color"
             android:title="@string/recent_card_bg_color_title"
             android:dialogTitle="@string/recent_card_bg_color_title"
-            android:defaultValue="0x00ffffff"
+            android:defaultValue="0xcf212a2f"
             settings:alphaSlider="true"
             settings:alphaText="true" />
 
@@ -138,7 +138,7 @@
             android:key="recent_card_text_color"
             android:title="@string/recent_card_text_color_title"
             android:dialogTitle="@string/recent_card_text_color_title"
-            android:defaultValue="0xff000000"
+            android:defaultValue="0xffffffff"
             settings:alphaSlider="true"
             settings:alphaText="true" />
 
