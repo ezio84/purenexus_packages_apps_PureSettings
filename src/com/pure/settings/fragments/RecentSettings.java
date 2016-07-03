@@ -98,7 +98,7 @@ public class RecentSettings extends SettingsPreferenceFragment
 
         mMaxApps = (SeekBarPreference) findPreference(RECENTS_MAX_APPS);
         int maxApps = Settings.System.getInt(resolver,
-                Settings.System.RECENTS_MAX_APPS, ActivityManager.getMaxRecentTasksStatic());
+                Settings.System.RECENTS_MAX_APPS, 20);
         mMaxApps.setValue(maxApps);
         mMaxApps.setOnPreferenceChangeListener(this);
 
