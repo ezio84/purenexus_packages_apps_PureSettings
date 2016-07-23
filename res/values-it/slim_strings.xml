@@ -25,7 +25,4 @@
     <!-- Navbar fragment -->
     <string name="pnnavbar_settings_title">Navigazione</string>
 
-    <!-- Quicks settings vibrate -->
-    <string name="quick_settings_vibrate_title">Vibra al tocco</string>
-    <string name="quick_settings_vibrate_summary">Vibra al tocco sulle tiles</string>
 </resources>
