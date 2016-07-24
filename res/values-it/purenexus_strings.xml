@@ -442,4 +442,29 @@
   <string name="volume_steps_system_title">Livelli volume: Sistema</string>
   <string name="volume_steps_voice_call_title">Livelli volume: Chiamate</string>
   <string name="volume_steps_reset">Reimposta</string>
+
+  <!-- Tiles animation style  -->
+  <string name="quicksettings_tiles_category">Animazione tiles</string>
+  <string name="qs_tile_animation_style_title">Stile animazione</string>
+  <string name="qs_tile_animation_duration_title">Durata animazione</string>
+  <string name="qs_tile_animation_interpolator_title">Interpolazione animazione</string>
+  <string name="qs_tile_animation_style_off">Nessuna animazione</string>
+  <string name="qs_tile_animation_style_flip">Capovolgi</string>
+  <string name="qs_tile_animation_style_rotate">Ruota</string>
+  <string name="qs_tile_animation_duration_low">Bassa</string>
+  <string name="qs_tile_animation_duration_default">Predefinita</string>
+  <string name="qs_tile_animation_duration_fast">Veloce</string>
+  <string name="qs_tile_animation_duration_faster">Molto veloce</string>
+  <string name="qs_tile_animation_interpolator_linearInterpolator">Lineare</string>
+  <string name="qs_tile_animation_interpolator_accelerateInterpolator">Accelera</string>
+  <string name="qs_tile_animation_interpolator_decelerateInterpolator">Decelera</string>
+  <string name="qs_tile_animation_interpolator_accelerateDecelerateInterpolator">Accelera e decelera</string>
+  <string name="qs_tile_animation_interpolator_bounceInterpolator">Rimbalza</string>
+  <string name="qs_tile_animation_interpolator_overshootInterpolator">Overshoot</string>
+  <string name="qs_tile_animation_interpolator_anticipateInterpolator">Anticipa</string>
+  <string name="qs_tile_animation_interpolator_anticipateOvershootInterpolator">Anticipa e overshoot</string>
+
+    <!-- Advanced data quick settings -->
+  <string name="qs_advanced_data_title">Tile dati avanzata</string>
+  <string name="qs_advanced_data_summary">Attiva il tocco singolo per disattivare o attivare i dati</string>
 </resources>
