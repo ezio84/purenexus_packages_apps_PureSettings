@@ -316,7 +316,7 @@
   <string name="statusbar_settings_title">Durum çubuğu</string>
   <!-- Battery settings -->
   <string name="battery_settings_title">Pil ayarları</string>
-  <string name="battery_settings_summary">Özel pil &amp; pil çubuğu seçenekleri</string>
+  <string name="battery_settings_summary">Özel pil</string>
   <string name="status_bar_battery_title">Pil simgesi</string>
   <!-- Battery bar settings -->
   <string name="battery_bar_title">Pil Çubuğu</string>

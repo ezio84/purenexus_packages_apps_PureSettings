@@ -316,7 +316,7 @@
   <string name="statusbar_settings_title">ステータスバー</string>
   <!-- Battery settings -->
   <string name="battery_settings_title">バッテリー設定</string>
-  <string name="battery_settings_summary">バッテリーのカスタマイズとバッテリーバーのオプション</string>
+  <string name="battery_settings_summary">バッテリーのカスタマイズ</string>
   <string name="status_bar_battery_title">バッテリーアイコン</string>
   <!-- Battery bar settings -->
   <string name="battery_bar_title">バッテリーバー</string>

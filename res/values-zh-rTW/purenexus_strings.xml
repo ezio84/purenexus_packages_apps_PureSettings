@@ -316,7 +316,7 @@
   <string name="statusbar_settings_title">狀態列</string>
   <!-- Battery settings -->
   <string name="battery_settings_title">電池設定</string>
-  <string name="battery_settings_summary">自訂電池 &amp; 電池條選項</string>
+  <string name="battery_settings_summary">自訂電池</string>
   <string name="status_bar_battery_title">電池圖示</string>
   <!-- Battery bar settings -->
   <string name="battery_bar_title">電池條</string>

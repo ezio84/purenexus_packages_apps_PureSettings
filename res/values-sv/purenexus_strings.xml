@@ -316,7 +316,7 @@
   <string name="statusbar_settings_title">Statusbar</string>
   <!-- Battery settings -->
   <string name="battery_settings_title">Inställningar för batteri</string>
-  <string name="battery_settings_summary">Anpassat batteri- &amp; batterimätaralternativ</string>
+  <string name="battery_settings_summary">Anpassat batteri</string>
   <string name="status_bar_battery_title">Batteriikon</string>
   <!-- Battery bar settings -->
   <string name="battery_bar_title">Batterifält</string>

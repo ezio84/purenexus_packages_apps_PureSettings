@@ -316,7 +316,7 @@
   <string name="statusbar_settings_title">Barra de estado</string>
   <!-- Battery settings -->
   <string name="battery_settings_title">Ajustes de la batería</string>
-  <string name="battery_settings_summary">Opciones personalizadas de la batería &amp; barra de batería</string>
+  <string name="battery_settings_summary">Opciones personalizadas de la batería</string>
   <string name="status_bar_battery_title">Icono de batería</string>
   <!-- Battery bar settings -->
   <string name="battery_bar_title">Barra de batería</string>

@@ -316,7 +316,7 @@
   <string name="statusbar_settings_title">Būsenos juosta</string>
   <!-- Battery settings -->
   <string name="battery_settings_title">Akumuliatoriaus nustatymai</string>
-  <string name="battery_settings_summary">Individualios akumuliatoriaus ir baterijos juostos parinktys</string>
+  <string name="battery_settings_summary">Individualios akumuliatoriaus</string>
   <string name="status_bar_battery_title">Akumuliatoriaus piktograma</string>
   <!-- Battery bar settings -->
   <string name="battery_bar_title">Akumuliatoriaus juosta</string>

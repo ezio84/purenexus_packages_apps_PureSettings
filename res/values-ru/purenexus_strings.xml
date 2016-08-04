@@ -316,7 +316,7 @@
   <string name="statusbar_settings_title">Строка состояния</string>
   <!-- Battery settings -->
   <string name="battery_settings_title">Настройки батареи</string>
-  <string name="battery_settings_summary">Настройки индикатора батареи &amp; опции панели заряда</string>
+  <string name="battery_settings_summary">Настройки индикатора батареи</string>
   <string name="status_bar_battery_title">Значок батареи</string>
   <!-- Battery bar settings -->
   <string name="battery_bar_title">Индикатор батареи</string>

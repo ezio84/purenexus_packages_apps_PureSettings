@@ -316,7 +316,7 @@
   <string name="statusbar_settings_title">状态栏</string>
   <!-- Battery settings -->
   <string name="battery_settings_title">电池设置</string>
-  <string name="battery_settings_summary">自定义电池 &amp; 电池工具栏选项</string>
+  <string name="battery_settings_summary">自定义电池</string>
   <string name="status_bar_battery_title">电池图标</string>
   <!-- Battery bar settings -->
   <string name="battery_bar_title">电量条</string>

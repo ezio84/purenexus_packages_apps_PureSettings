@@ -316,7 +316,7 @@
   <string name="statusbar_settings_title">Pasek stanu</string>
   <!-- Battery settings -->
   <string name="battery_settings_title">Ustawienia baterii</string>
-  <string name="battery_settings_summary">Ustawienia baterii &amp; opcje paska baterii</string>
+  <string name="battery_settings_summary">Ustawienia baterii</string>
   <string name="status_bar_battery_title">Ikona baterii</string>
   <!-- Battery bar settings -->
   <string name="battery_bar_title">Pasek baterii</string>

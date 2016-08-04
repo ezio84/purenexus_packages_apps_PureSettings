@@ -316,7 +316,7 @@
   <string name="statusbar_settings_title">Statusbalk</string>
   <!-- Battery settings -->
   <string name="battery_settings_title">Accu instellingen</string>
-  <string name="battery_settings_summary">Aangepaste accu &amp; accubalk opties</string>
+  <string name="battery_settings_summary">Aangepaste accu</string>
   <string name="status_bar_battery_title">Accu pictogram</string>
   <!-- Battery bar settings -->
   <string name="battery_bar_title">Accubalk</string>

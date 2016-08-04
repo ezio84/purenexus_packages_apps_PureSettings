@@ -316,7 +316,7 @@
   <string name="statusbar_settings_title">상태 바</string>
   <!-- Battery settings -->
   <string name="battery_settings_title">배터리 설정</string>
-  <string name="battery_settings_summary">배터리 커스터마이즈 &amp; 배터리 바 설정</string>
+  <string name="battery_settings_summary">배터리 커스터마이즈</string>
   <string name="status_bar_battery_title">배터리 아이콘</string>
   <!-- Battery bar settings -->
   <string name="battery_bar_title">배터리 바</string>

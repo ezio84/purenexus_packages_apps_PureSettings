@@ -276,7 +276,7 @@
     <string name="statusbar_settings_title">Statusbar</string>
     <!-- Battery settings -->
     <string name="battery_settings_title">Battery settings</string>
-    <string name="battery_settings_summary">Change battery icon, percentage</string>
+    <string name="battery_settings_summary">Change battery icon and percentage</string>
     <!-- Battery icon options -->
     <string name="status_bar_battery_style_title">Battery status style</string>
     <string name="status_bar_battery_style_icon_portrait">Icon portrait</string>

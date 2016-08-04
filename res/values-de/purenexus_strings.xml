@@ -316,7 +316,7 @@
   <string name="statusbar_settings_title">Statusleiste</string>
   <!-- Battery settings -->
   <string name="battery_settings_title">Akku-Einstellungen</string>
-  <string name="battery_settings_summary">Akkusymbol &amp; Akkuleiste konfigurieren</string>
+  <string name="battery_settings_summary">Akkusymbol konfigurieren</string>
   <string name="status_bar_battery_title">Akkusymbol</string>
   <!-- Battery bar settings -->
   <string name="battery_bar_title">Akkuleiste</string>
