@@ -414,4 +414,8 @@
     <string name="qs_set_animation_style">%1$s</string>
     <string name="qs_set_animation_duration">%1$s</string>
     <string name="qs_set_animation_interpolator">%1$s</string>
+
+    <!-- Lockscreen charging current indicator  -->
+    <string name="lockscreen_charging_current_title">Lockscreen charging current</string>
+    <string name="lockscreen_charging_current_summary">Display negociated charger max current on lockscreen</string>
 </resources>
